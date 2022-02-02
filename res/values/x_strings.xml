@@ -138,7 +138,7 @@
     <string name="build_date">Build date</string>
     <string name="build_maintainer" translatable="false">Maintainer</string>
     <string name="rom_version">Xtended version</string>
-    <string name="rom_version_default">Unknown</string>
+    <string name="rom_version_default">Roms SC</string>
 
     <!-- Hardware info -->
     <!-- Label for device's hardware platform value [CHAR LIMIT=40] -->
